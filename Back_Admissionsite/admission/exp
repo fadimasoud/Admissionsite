@@ -1,0 +1,23 @@
+{
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "mobile_phone": "",
+    "date_of_birth": null,
+    "gender": null,
+    "tshirt_size": null,
+    "address": "",
+    "street_address": "",
+    "address_line_2": "",
+    "country": null,
+    "education_level": null,
+    "name_of_university_highschool": "",
+    "major": "",
+    "work_experience": "",
+    "website_link": "",
+    "hear_by": null,
+    "goal": "",
+    "background": "",
+    "portfolio": null,
+    "cv": null
+}
